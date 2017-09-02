@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Wed Apr 12 21:22:57 EDT 2017
+2.base=C\:\\Users\\tulik\\Documents\\study\\android\\PA2b\\GroupMessenger2\\GroupMessenger2\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\tulik\\Documents\\study\\android\\PA2b\\GroupMessenger2\\GroupMessenger2\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\tulik\\Documents\\study\\android\\PA2b\\GroupMessenger2\\GroupMessenger2\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\tulik\\Documents\\study\\android\\PA2b\\GroupMessenger2\\GroupMessenger2\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=C\:\\Users\\tulik\\Documents\\study\\android\\PA2b\\GroupMessenger2\\GroupMessenger2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+5.base=C\:\\Users\\tulik\\Documents\\study\\android\\PA2b\\GroupMessenger2\\GroupMessenger2\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=C\:\\Users\\tulik\\Documents\\study\\android\\PA2b\\GroupMessenger2\\GroupMessenger2\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\tulik\\Documents\\study\\android\\PA2b\\GroupMessenger2\\GroupMessenger2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\activity_group_messenger.xml
+0.base=C\:\\Users\\tulik\\Documents\\study\\android\\PA2b\\GroupMessenger2\\GroupMessenger2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+3.file=C\:\\Users\\tulik\\Documents\\study\\android\\PA2b\\GroupMessenger2\\GroupMessenger2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\tulik\\Documents\\study\\android\\PA2b\\GroupMessenger2\\GroupMessenger2\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\tulik\\Documents\\study\\android\\PA2b\\GroupMessenger2\\GroupMessenger2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_group_messenger.xml
+0.set=DEX

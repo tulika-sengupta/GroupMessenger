@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\tulik\Documents\study\android\PA2b\GroupMessenger2\GroupMessenger2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0549447d32025091300bf183a6c59c2e7df4b676">
+        <dex dex="C:\Users\tulik\Documents\study\android\PA2b\GroupMessenger2\GroupMessenger2\app\build\intermediates\pre-dexed\debug\instant-run_6b318dc2bcec80d937dc489a740a3c82a9ec4118.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tulik\Documents\study\android\PA2b\GroupMessenger2\GroupMessenger2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f13087d64f941e03c21e11785628504ae1c183e7">
+        <dex dex="C:\Users\tulik\Documents\study\android\PA2b\GroupMessenger2\GroupMessenger2\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_cdf9f47bcfc75def1bc39d532a265a2d47c0bda9.jar" />
+    </item>
+
+</items>
